@@ -12,7 +12,7 @@ Github repository and install the archetype in your local Maven respository.
 
 ```
 > git clone https://github.com/raupachz/jsf-archetype.git
-> cd jsf-edge-archetype.git
+> cd jsf-archetype.git
 > mvn install
 ```
 
